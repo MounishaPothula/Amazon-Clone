@@ -23,10 +23,10 @@ Follow these steps to set up and run the project locally:
   ```
 ## Screenshots
 
-![Screenshot1](./screenshots/screenshot.png)
-![Screenshot2](./screenshots/screenshot.png)
-![Screenshot3](./screenshots/screenshot.png)
-![Screenshot4](./screenshots/screenshot.png)
+![Screenshot1](./screenshots/screenshot1.png)
+![Screenshot2](./screenshots/screenshot2.png)
+![Screenshot3](./screenshots/screenshot3.png)
+![Screenshot4](./screenshots/screenshot4.png)
 
 
 
