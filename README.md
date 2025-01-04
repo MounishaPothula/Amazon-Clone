@@ -15,23 +15,19 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/MounishapothUla/Amazon-Clone.git
-
-2. **Navigate into the project folder**:
-   ```bash
-   cd project
-3. **Install the required dependencies**:
+2. **Install the required dependencies**:
    ```bash
    npm install
-4. **Run the development server**:
+3. **Run the development server**:
   ```bash
    npm run dev
-```
+  ```
 ## Screenshots
 
-![Screenshot1](./screenshot.png)
-![Screenshot2](./screenshot.png)
-![Screenshot3](./screenshot.png)
-![Screenshot4](./screenshot.png)
+![Screenshot1](./screenshots/screenshot.png)
+![Screenshot2](./screenshots/screenshot.png)
+![Screenshot3](./screenshots/screenshot.png)
+![Screenshot4](./screenshots/screenshot.png)
 
 
 
