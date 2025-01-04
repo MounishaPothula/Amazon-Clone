@@ -1,7 +1,6 @@
 # Amazon Clone
 
 ## Technologies Used
-
 -**React**: JavaScript library for building user interfaces.
 -**Vite**: Build tool for modern web development.
 -**TypeScript**: Type-safe language built on JavaScript for better development experience.
